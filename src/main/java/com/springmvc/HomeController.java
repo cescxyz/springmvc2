@@ -11,5 +11,10 @@ public class HomeController {
 	public String goHome() {
 		return "home";
 	}
+	
+	@RequestMapping(value="/detail",method=RequestMethod.GET)
+	public String goDetail() {
+		return "detail";
+	}
 
 }
