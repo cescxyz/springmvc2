@@ -7,4 +7,4 @@ maven
 java 8
 springmvc 5.1.3.RELEASE
 
-<img src="https://lh6.googleusercontent.com/cYhYcRjZh-C-kgSU7dGeNlBsp_uEAiE0d9HS8beeNBTJVwxThtU7oQWQB_PJMrk2AvArooS5BSX4PwPyQj4r=w1366-h626-rw" alt="Smiley face" height="42" width="42">
+<img src="https://lh6.googleusercontent.com/cYhYcRjZh-C-kgSU7dGeNlBsp_uEAiE0d9HS8beeNBTJVwxThtU7oQWQB_PJMrk2AvArooS5BSX4PwPyQj4r=w1366-h626-rw">
